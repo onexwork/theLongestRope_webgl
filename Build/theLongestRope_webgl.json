@@ -1,0 +1,13 @@
+{
+"companyName": "oneXwork",
+"productName": "TheLongestRope",
+"dataUrl": "theLongestRope_webgl.data.unityweb",
+"asmCodeUrl": "theLongestRope_webgl.asm.code.unityweb",
+"asmMemoryUrl": "theLongestRope_webgl.asm.memory.unityweb",
+"asmFrameworkUrl": "theLongestRope_webgl.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
